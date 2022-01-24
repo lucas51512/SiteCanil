@@ -1,0 +1,50 @@
+.altura{
+    object-fit: cover;
+    height: 40rem;
+}
+
+.cartao{
+    width: 20rem;
+    align-items: center;
+}
+
+.nossos-cachorros{
+    padding-top: 3%;
+}
+
+.nossos-cachorros-cartoes{
+    margin: 10%;
+    width: 25rem;
+    object-fit: cover;
+}
+
+.tamanho-cartao{
+    width: 30rem;
+}
+
+.matrizes-cachorros{
+    text-align: center;
+}
+
+.imagens-matrizes{
+    max-height: 250px !important;
+    width: auto;
+}
+
+.principais-duvidas{
+    text-align: center;
+}
+
+.duvidas{
+    width: 18rem;
+    margin: 3%;
+}
+
+.sobre{
+    padding: 5%;
+}
+
+.imagem-fema{
+    align-self: center;
+
+}
